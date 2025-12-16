@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "YidaYu"
+title                    : "YidaYu/WilliamYu"
 title_separator          : "-"
 name                     : &name "YidaYu"
 description              : &description "YidaYu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "YidaYu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Hangzhou, Zhejiang Province, China"
+  location         : "Hangzhou, Zhejiang, China"
   employer         : "Zhejiang University"
   uri              : # URL
   email            : "none@example.org" 
